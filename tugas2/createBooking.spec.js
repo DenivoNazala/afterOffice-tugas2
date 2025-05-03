@@ -12,8 +12,8 @@ const header = {
 
 const modifikasiData = () => {
   const data = JSON.parse(JSON.stringify(json));
-  data.firstname = 'ivo';
-  data.lastname = 'nazala';
+  data.firstname = 'raffy';
+  data.lastname = 'zaidaan';
   data.totalprice = 6478;
   return data;  
 };
